@@ -1,0 +1,32 @@
+*{
+    box-sizing:border-box;
+}
+
+.box {
+    border:2px solid black;
+    text-align:center;
+    background-color:rgb(249, 236, 217);
+    margin:10px 10px 20px 10px;
+ 
+  text-align: justify;
+}
+h2{
+    text-align: center;
+    padding:2px;
+    margin-bottom: 10px;
+}
+.chicken, .sushi, .beef {
+text-align: center;
+/* margin-left:50%; */
+font-weight: bold;
+font-size: 20px;
+
+ display: flex;
+ justify-content: center;
+}
+.nav-item{
+    text-align: center;
+}
+.navbar{
+    background-color: rgb(167, 167, 167);
+}
